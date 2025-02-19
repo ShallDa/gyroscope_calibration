@@ -1,0 +1,6 @@
+flask
+flask twilio
+pyserial
+panda
+scipy
+numpy
