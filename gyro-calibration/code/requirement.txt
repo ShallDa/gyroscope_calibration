@@ -1,0 +1,8 @@
+flask
+flask twilio
+pyserial
+panda
+scipy
+numpy
+plotly
+flask_cors
